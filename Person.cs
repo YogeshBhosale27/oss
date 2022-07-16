@@ -14,6 +14,7 @@ namespace HelloWorldApp
         private DateTime birthDate;
         private string contactNumber;
         private string email;
+        public string Location { get; set; }
 
         // member function
         //Constructor overloading
