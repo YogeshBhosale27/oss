@@ -15,7 +15,7 @@ namespace HelloWorldApp
         private string contactNumber;
         private string email;
         public string Location { get; set; }
-
+        public string Description{get; set;}
         // member function
         //Constructor overloading
         public Person() {
